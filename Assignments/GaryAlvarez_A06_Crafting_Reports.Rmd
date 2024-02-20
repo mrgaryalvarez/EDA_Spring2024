@@ -138,3 +138,4 @@ Add a table of contents and list of figures to your document and knit to a PDF. 
 
 ## Git Repository
 
+https://github.com/mrgaryalvarez/EDA_Spring2024.git
